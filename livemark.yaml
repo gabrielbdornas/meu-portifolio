@@ -1,0 +1,16 @@
+brand:
+  text: Portifólio Gabriel Dornas
+about:
+  text: Portifólio Gabriel Dornas
+github:
+  user: gabrielbdornas
+  repo: meu-portifolio
+topics:
+  selector: h2
+pages:
+  items:
+    - path: index
+links:
+  items:
+    - name: Livemark
+      path: https://livemark.frictionlessdata.io
